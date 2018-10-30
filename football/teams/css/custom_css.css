@@ -1,0 +1,104 @@
+			/*style the body and footer*/
+			
+
+
+			/**/
+			#profile{
+				
+			}
+			#profile img{
+				height:40px;
+				width:40px;
+				border-radius:50%;
+			}
+			.row{
+				width:100%;
+			}
+			.container-fluid{
+				padding-left:0px;
+				padding-right:0px;
+			}
+	/*styling the navbar*/
+			.navbar{
+				margin-bottom:0;
+				background-color:#A8C357;
+				z-index: 9999;
+				border: 0;
+				font-size:12px;
+				line-height: line-height: 1.42857143;
+				letter-spacing: 4px;
+				border-radius: 0;
+				z-index: 999;
+			}
+
+			#nav_links li a:visited{
+				color:#EEE8AA;
+				background-color:black;
+			}
+
+			#nav_links li a{
+				color:white;
+			}
+
+			#nav_links li a:hover{
+				color:black;
+				background-color:white;
+			}
+
+	/*align to the left*/
+			#left_text{
+				text-align:right;
+			}
+			.navbar-right {
+    			float: right!important;
+    			margin-right: 0px;
+			}
+	/*style the inner links of the dropdwons*/
+			#inner_links li {
+				letter-spacing:0px;
+			}
+
+			#inner_links li a{
+				color:black;
+			}
+
+			#inner_links li a:hover{
+				color:white;
+				background-color:grey;
+			}
+
+			#inner_links li a:visited{
+				color:black;
+			}
+	/*letter spacing to create a beautiful font*/
+			#header_row{
+				letter-spacing:2px;
+			}
+/*PROFILE PAGE update*/
+			
+			.panel{
+				margin-top:20px;
+				background-color: #F1F1F1;
+			}
+
+			.image_profile_update{
+				height:80px;
+				width:80px;
+				border-radius:50%;
+			}
+
+/*PROFILE PAGE upload*/
+			
+
+			.image_profile_upload{
+				height:300px;
+				width:300px;
+				border-radius:50%;
+			}
+
+			#button1{
+				height:50px;
+				font-size:20px;
+				width:60%;
+				
+			}
